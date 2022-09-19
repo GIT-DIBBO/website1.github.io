@@ -1,6 +1,6 @@
 .nav {
       height: 50px;
-      background: powderblue;
+      background: linear-gradient(#b993d6,#8ca6db);
 }
 .nav div {
       display: inline-block;
