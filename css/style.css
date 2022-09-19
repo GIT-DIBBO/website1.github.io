@@ -26,7 +26,7 @@
 .home {
       background: url("../images/background1.jpg");
       background-size: cover;
-      height:  480px;
+      height:  650px;
 }
 .home .text-container {
       text-align: center;
@@ -37,7 +37,7 @@
 }
 .about .about-content {
       margin: 150px auto 0 auto;
-      width: 500px;
+      width: 650px;
 }
 .about {
   background: url("../images/background2.jpg");
