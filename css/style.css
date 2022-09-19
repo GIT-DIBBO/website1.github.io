@@ -24,7 +24,7 @@
       padding: 6px;
 }
 .home {
-      background: url("../images/background.jpg");
+      background: url("../images/background1.jpg");
       background-size: cover;
       height:  480px;
 }
@@ -39,6 +39,11 @@
       margin: 150px auto 0 auto;
       width: 500px;
 }
+.about {
+  background: url("../images/background2.jpg");
+  background-size: cover;
+  height: 650px; 
+}
 .about .about-content h1 {
       text-align: center;
       font-family: 'Nabla', cursive;
@@ -48,6 +53,11 @@
       text-align: justify;
       font-family: 'Roboto', sans-serif;
       color: #00bd02;
+}
+.services {
+  background: url("../images/background2.jpg");
+  background-size: cover;
+  height: 650px; 
 }
 .services .services-content {
       margin: 80px auto 0 auto;
@@ -71,6 +81,11 @@
       text-align: justify;
       color: #00b411;
       font-family: 'Roboto', sans-serif;
+}
+.contact {
+  background: url("../images/background2.jpg");
+  background-size: cover;
+  height: 650px; 
 }
 .contact .contact-content {
       margin: 80px auto 0 auto;
